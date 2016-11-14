@@ -1,4 +1,4 @@
-node('windows7')
+node('Windows7')
 {
 stage 'Checkout'
   checkout scm
